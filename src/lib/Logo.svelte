@@ -1,7 +1,7 @@
-<img src="lm.png" class="logo-cv mr-5" alt="Logo"/>
+<img src="cabeca.png" class="logo-cabeca mr-5" alt="Logo"/>
 
 <style>
-    .logo-cv {
-        height: 6rem; 
+    .logo-cabeca {
+        height: 4rem; 
     }
 </style>
