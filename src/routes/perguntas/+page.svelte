@@ -1,3 +1,4 @@
+
 <section class="bg-gradient-to-r from-blue-500 to-purple-600 text-white min-h-screen flex flex-col">
     <div class="container px-6 py-12 mx-auto flex flex-col flex-grow">
         <!-- Título e Descrição -->
