@@ -45,7 +45,7 @@
                         <h2 class="mt-2 text-2xl font-arial">{tittle}</h2>
                     </div>
                     <div class="mt-4 lg:w-1/2 lg:mt-0">
-                        <a href={`/portfolio/${slug}`}>
+                        <a href={`/todos/${slug}`}>
                             <img class="object-cover w-full h-64 rounded-lg md:h-96" src="{image}" alt="">
                         </a>
                     </div>
